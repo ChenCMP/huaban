@@ -1,0 +1,163 @@
+*{
+	     margin:0px;
+		 padding:0px;
+	 }
+	 .warp{
+	     width:100%;
+		 height:500px;
+		 /* background:url(../images/5.1.jpg) */
+		 background-image: url(../images/5.1.jpg);
+	 }
+	 .left{
+	     width:60%;
+		 height:30px;
+		 margin-left:75px;
+		 float: left;
+	 }
+	 .right{
+		 width: 40%;
+		 height: 40px;
+		 float: left;
+	 }
+	 .b1{
+		 margin-top: 10px;
+		 width: 70px;
+		 height: 25px;
+		 color: #FFFFFF;
+		 background:rgba(255,255,255,0.1);
+		 border: none;
+	 }
+	 .a1{
+	     margin:10px;
+	     color:#ffffff;
+		 text-decoration:none;		 
+	 }
+	 .a1:hover{
+	     text-decoration:underline;
+	 }
+     img{
+		 width:90px;
+		 height:30px;
+	 }
+	 p{
+	     color:#ffffff;
+		 margin-top:100px;
+		 font-size:30px;
+	 }
+	 .box{
+	     width:754px;
+		 height:65px;
+	 }
+	 .input1{
+         width: 600px;
+         border: 1px solid #e2e2e2;
+         height: 50px;
+		 background: url(../images/搜索.png);
+		 background-size: 40px;
+         background-position:10px center;
+		 background-repeat: no-repeat;		 
+     }
+	 .sm{
+	     width:180px;
+		 height:45px;
+		 float:right;
+	 }
+	 .input2{
+	     width:80px;
+		 height:45px;
+		 
+	 }
+	 .input3{
+	     width:80px;
+		 height:45px;
+		 float:right;
+		 margin-left:20px;
+	 }
+	 .box1{
+		 width: 100%;
+	     height:40px;
+	 }
+	 .jia{
+		 width: 100%;
+		 height:40px;
+		 /* background: #FF6600; */
+		 
+	 }
+	 .jiazai{
+		 background-color: #ddd;
+		 width: 300px;
+		 height: 32px;
+		 line-height: 32px;
+		 font-size: 16px;
+		 color: #000000;
+		 flex: 1;
+         
+	 }
+	 .line{
+		 height: 1px;
+		 width: 100%;
+		 margin-top: -13px;
+		 background: #ddd;
+		 flex: -1;
+
+	 }
+	 .guan{
+		 color:#808080;
+		 margin-left: 50%;
+	 }
+	 .wei{
+		 color: #808080;
+	 }
+	 .img1{
+	     width:292px;
+		 height:214px; 
+	 }
+	 .img2{
+	     width:286px;
+		 height:285px; 
+		 display:block;
+	 }
+	 .img3{
+	     width:286px;
+		 height:140px; 
+		 display:block;
+	 }
+	 .box2{
+	     width:286px;
+		 height:285px;
+		 position:absolute;
+		 margin:0 auto;
+	 }
+	 a{  
+	     color:#000000;
+		 text-decoration:none;		 
+	 }
+	 a:hover{
+	     text-decoration:underline;
+		 color:#ff6600;
+	 }
+	 .tb1{
+		 background-color:#808080;
+		 width:100%;
+		 height:200px;
+		 margin-top:20px;
+	 }
+	 .p2{
+	     float:left;
+		 margin-top:20px;
+		 margin-left:50px;
+	 }
+	 .b {
+	color: #FFF;
+     }
+	 .z{
+	     width:100%;
+		 height:67px;
+		 background-color:#000000;
+	 }
+	 .z1{
+	     font-size:small;
+		 height:67px;
+		 margin:0px auto;
+		 transform: translateY(50%);
+	 }
